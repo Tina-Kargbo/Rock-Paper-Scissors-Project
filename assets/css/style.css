@@ -1,0 +1,71 @@
+/* Main view setup */
+
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    margin: 0;
+}
+
+/* Header and Footer */
+
+header {
+    text-align: center;
+    height: 50px;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    min-height: 80px;
+    padding-top: 5px;
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+
+/* Game area */
+
+.game-area {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.submit-buttons-section {
+    display: inline-block;
+    margin: 2px;
+    width: 80px;
+    height: 40px;
+}
+
+#messages {
+    height: 20px;
+}
+
+.player {
+    background-color: yellow;
+    float: left;
+    width: 45%;
+}
+
+#player-image {
+    width: 75%;
+}
+
+.computer {
+    background-color: blue;
+    float: right;
+    width: 45%;
+}
+
+#computer-image {
+    width: 75%;
+}
