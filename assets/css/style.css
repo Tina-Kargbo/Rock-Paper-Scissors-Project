@@ -41,9 +41,14 @@ footer {
 
 .control-area {
     display: inline-block;
-    margin: 2px;
+    margin: 4px;
     width: 80px;
-    height: 40px;
+    height: 50px;
+}
+.control {
+    width: 110px;
+    height: 70px;
+    font-size: medium;
 }
 
 #messages {
