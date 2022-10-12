@@ -11,17 +11,18 @@
     <title>Document</title>
 </head>
 <body>
-    
-    <h1 class="heading">Rock, Paper, Scissors Game</h1>
-    <h2>Please Choose!</h2>
-
-    <div class="game-area">
-        <div class="submit-buttons-section">
-            <button class="btn btn--big btn--rock">Rock <i class="fa-solid fa-hand-back-fist"></i></button>
-            <button class="btn btn--big btn--paper">Paper <i class="fa-solid fa-hand"></i></button>
-            <button class="btn btn--big btn--scissors">Scissors <i class="fa-solid fa-hand-scissors"></i></button>
+    <header>
+        <h1 class="heading">Rock, Paper, Scissors Game</h1>
+    </header>
+    <section class="game-area">
+        <div>
+            <p>Please Choose!</p>
+            <button aria-label="Rock" data-choice="0" class="control">Rock<i class="fa-solid fa-hand-back-fist"></i></button>
+            <button aria-label="Paper" data-choice="1" class="control">Paper<i class="fa-solid fa-hand"></i></button>
+            <button aria-label="Scissors" data-choice="2" class="control">Scissors<i class="fa-solid fa-hand-scissors"></i></button>
         </div>
-    
+        <div id="messages"></div>
+    </section>
         
         <div class ="score-area-1">
             <p class="score-area-1">Your Score <span id="score">0</span></p>
