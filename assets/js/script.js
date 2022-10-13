@@ -20,3 +20,26 @@ for (let button of buttons) {
         playGame(playerChoice);
     });
 }
+
+/**
+ * The main game function. Accepts one parameter, 
+ * which is the data-choice value of the selected button.
+ */
+function playGame(playerChoice) {
+
+    playerImage.src = `assets/imagesimages/${choices[playerChoice]}.png`;
+    playerImage.alt = choices[playerChoice];
+
+    let computerChoice = Math.floor(Math.random() * 3);
+
+    computerImage.src = `assets/imagesimages/${choices[computerChoice]}.png`;
+    computerImage.alt = choices[computerChoice];
+
+    let result = checkWinner(choices [computerChoice], choices[playerChoice]);
+
+    updateScores(result);
+}
+
+/**
+ * Checks to see who the winner is, it accepts two strings as
+ */
