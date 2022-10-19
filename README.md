@@ -19,14 +19,14 @@ HEADING LINK//
 
 - __Button Area__
 
-  - This button area has a "Please Choose!" sub-heading, signalling to children simplistically that they should choose one of the buttons below it. Underneath the "Please Choose!" sub-heading sits the three buttons for rock, paper and scissors side by side.  
+BUTTON AREA LINK
 
-![Game](media/love_maths_icons.png)
+  - This button area has a "Please Choose!" sub-heading, signalling to children simplistically that they should choose one of the buttons below it. Underneath the "Please Choose!" sub-heading sits the three buttons for rock, paper and scissors in a horizontol row. Children can choose one of the buttons in order to play against the computer. Each button has a small icon of the object that it signals beside the words "Rock", "Paper" and "Scissors" in order to show children who cannot read so well which button that they are pressing.
 
-- __The Question section__
 
-  - The question section is where the user will be able to see the elementary arithmetic question to answer as part of the game. The user will be able answer the questions in the answer box provide
-  - The user will be able to submit their answer and a pop-up will make it known to the user if they answered correctly. 
+- __Score Area__
+
+  - In the score area, there is a section to the left with a yellow background showing "Your Score", which is the score of the player. To the right sits a sectionw with a blue background showing the "Computer Score". Again it has pictures of the three images of hands representing a rock, paper and scissors. These colors are in blue and yellow because they are in primary colours. These are colours that many children of primary school going age would be familiar with and know the names of. These colours are familiar to the children and offers the warmth of familiarity for them without too much distraction.
 
 ![Question](media/love_maths_question.png)
 
