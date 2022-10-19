@@ -1,12 +1,9 @@
 # Rock, Paper Scissors Game
 
-The Rock, Paper, Scissors Game was created to allow children of primary school age to ecercise their fine motor skills by interacting with a computer game. It is also a fun way for them to experience how games is also a matter of chance and not always just skill. I choose a typical children's game of rock, paper scissors, which many primary school aged children in England have played before to do this. Children will also learn something about what the properties of rock, paper and scissors can do in combination with the other.
+The Rock, Paper, Scissors Game was created to allow children of primary school age to exercise their fine motor skills by interacting with a computer game. It is also a fun way for them to experience how games can also be a matter of chance and not always just skill. I choose a typical children's game of rock, paper scissors, which many primary school aged children in England have played before to demonstrate this. Children will also learn something about what the properties of rock, paper and scissors can do in combination with one another.
 
 
-
-For example, Love Maths is a site that hopes to demonstrate how pure JavaScript works in a real-world context. The site will be targeted toward people who not only love to implement more advanced JavaScript concepts but also maths. Love Maths is a fully responsive JavaScript maths game that will allow users to add, subtract, multiply and divide numbers. 
-
-![Responsice Mockup](media/love_maths_mockup.png)
+![Responsive Mockup](LINK IT HERE)
 
 ## Features 
 
@@ -14,16 +11,15 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
-- __The Love Maths Logo and Heading__
+- __Heading__
 
-  - Featured at the top of the page, the Love Maths logo and heading is easy to see for the user. Upon viewing the page, the user will be able to see the name of the game.
+HEADING LINK//
 
-![Logo](media/love_maths_logo.png)
+  - The heading "Rock, Paper, Scissors Game" is large and bold. This is to make it easy for children to read. The heading is also written in the Comic Neue font-type, which is child-friendly. This font type is not highly stylised, making it easier and clearer to read.
 
-- __The Game Area__
+- __Button Area__
 
-  - This section will allow the user to play the maths game. The user will be able to easily see icons for addition,  subtraction, multiplication, and division games.
-  - The user will be able to select the type of maths game they will be playing by clicking on the different icons. 
+  - This button area has a "Please Choose!" sub-heading, signalling to children simplistically that they should choose one of the buttons below it. Underneath the "Please Choose!" sub-heading sits the three buttons for rock, paper and scissors side by side.  
 
 ![Game](media/love_maths_icons.png)
 
