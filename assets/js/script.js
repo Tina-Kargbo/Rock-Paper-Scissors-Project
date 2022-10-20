@@ -3,12 +3,15 @@
  * and possible choices.
  */
 const buttons = document.getElementsByClassName("control");
-const buttons = document.getElementsById("player-score");
-const buttons = document.getElementsById("computer-score");
-const buttons = document.getElementsById("player-image");
-const buttons = document.getElementsById("computer-image");
-const buttons = document.getElementsById("messages");
-const buttons = document.getElementsById["rock", "paper", "scissors"]; 
+const playerImage = document.getElementById('player-image');
+const computerImage = document.getElementById('computer-image');
+let computerScore = 0;
+// const buttons = document.getElementsById("player-score");
+// const buttons = document.getElementsById("computer-score");
+// const buttons = document.getElementsById("player-image");
+// const buttons = document.getElementsById("computer-image");
+// const buttons = document.getElementsById("messages");
+// const buttons = document.getElementsById["rock", "paper", "scissors"]; 
 
 /** 
  * Add event listener to all the buttons
@@ -27,19 +30,24 @@ for (let button of buttons) {
  */
 function playGame(playerChoice) {
 
-    playerImage.src = `assets/imagesimages/${choices[playerChoice]}.png`;
-    playerImage.alt = choices[playerChoice];
+    playerImage.src = `assets/images/${playerChoice}.jpg`;
+    playerImage.alt = playerChoice;
 
     let computerChoice = Math.floor(Math.random() * 3);
 
-    computerImage.src = `assets/imagesimages/${choices[computerChoice]}.png`;
-    computerImage.alt = choices[computerChoice];
+    computerImage.src = `assets/images/${computerChoice}.jpg`;
+    computerImage.alt = computerChoice;
 
-    let result = checkWinner(choices [computerChoice], choices[playerChoice]);
+    let result = checkWinner(computerChoice, playerChoice);
 
-    updateScores(result);
+//     updateScores(result);
 }
 
 /**
  * Checks to see who the winner is, it accepts two strings as
  */
+function checkWinner(computerChoice, playerChoice){
+    console.log(`User played ${playerChoice} vs Computer played ${computerChoice}`);
+    computerScore = computerScore + 1;
+    document.getElementById('computer-score').innerText = computerScore;
+}
