@@ -17,11 +17,11 @@ HEADING LINK//
 
   - The heading "Rock, Paper, Scissors Game" is large and bold. This is to make it easy for children to read. The heading is also written in the Comic Neue font-type, which is child-friendly. This font type is not highly stylised, making it easier and clearer to read.
 
-- __Button Area__
+- __Game Area__
 
-BUTTON AREA LINK
+GAME AREA LINK
 
-  - This button area has a "Please Choose!" sub-heading, signalling to children simplistically that they should choose one of the buttons below it. Underneath the "Please Choose!" sub-heading sits the three buttons for rock, paper and scissors in a horizontol row. Children can choose one of the buttons in order to play against the computer. Each button has a small icon of the object that it signals beside the words "Rock", "Paper" and "Scissors" in order to show children who cannot read so well which button that they are pressing.
+  - This game area has a "Please Choose!" sub-heading, signalling to children simplistically that they should choose one of the buttons below it. Underneath the "Please Choose!" sub-heading sits the three buttons for rock, paper and scissors in a horizontol row. Children can choose one of the buttons in order to play against the computer. Each button has a small icon of the object that it signals beside the words "Rock", "Paper" and "Scissors" in order to show children who cannot read so well which button that they are pressing.
 
 
 - __Score Area__
@@ -80,26 +80,17 @@ The live link can be found here - https://code-institute-org.github.io/love-math
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The structure of and idea for the page and game came from the Code Institute's Rock, Paper, Scissors "Portfolio Project Scope" video. Please see the link here: https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+JSE_PAGPPF+2021_Q2/courseware/30137de05cd847d1a6b6d2c7338c4655/c3bd296fe9d643af86e76e830e1470dd/ 
 
-- https://sciencing.com/do-bright-colors-appeal-kids-5476948.html REFERENCE OF THE BRIGHT COLOURS 
+- The information concerning the importance of primary colours for children can be found on this website, "Sciencing". Please see the link here: https://sciencing.com/do-bright-colors-appeal-kids-5476948.html
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The images of the rock, paper, Scissors hands used in the game area was taken from the website: https://www.vectorstock.com/royalty-free-vector/rock-paper-scissors-hand-gesture-vector-25169740 
 
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
+- The icons on the Rock, Paper, Scissors buttons were taken from the font awesome website here: https://kit.fontawesome.com/bfe584297d.js 
 
 ## Other General Project Advice
 
