@@ -26,19 +26,12 @@ BUTTON AREA LINK
 
 - __Score Area__
 
-  - In the score area, there is a section to the left with a yellow background showing "Your Score", which is the score of the player. To the right sits a sectionw with a blue background showing the "Computer Score". Again it has pictures of the three images of hands representing a rock, paper and scissors. These colors are in blue and yellow because they are in primary colours. These are colours that many children of primary school going age would be familiar with and know the names of. These colours are familiar to the children and offers the warmth of familiarity for them without too much distraction.
+  -  The score area is primarily for the player to know their score as against the computer's score. In this area, there is a section to the left with a yellow background showing "Your Score", which is the score of the player. To the right sits a sectionw with a blue background showing the "Computer Score". Again it has pictures of the three images of hands representing a rock, paper and scissors. These colors are in blue and yellow because they are in primary colours. These are colours that many children of primary school going age would be familiar with and know the names of. Primary colours are also child friendly because children like and see bright primary colours more than dark and muted colours. These colours are familiar to the children and offers the warmth of familiarity for them without too much distraction.
 
-![Question](media/love_maths_question.png)
 
-- __The Score Area__
+_ Footer Area _
 
-  - This section will allow the user to see exactly how many correct and incorrect answers they have provided. 
-
-![score](media/love_maths_answer.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+The footer has the rules of the game. The rules of the game allow children to know what object (rock, paper or scissors) can be used in combination with another object to win a round of the game. The footer background colour is in red, which is a bright primary colour just like the colours above in the score section. A primary colour was again used for the footer for the same reasons that primary colours were used in the score area (see score area section above).  
 
 ### Features Left to Implement
 
@@ -97,6 +90,8 @@ You can break the credits section up into Content and Media, depending on what y
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
+- https://sciencing.com/do-bright-colors-appeal-kids-5476948.html REFERENCE OF THE BRIGHT COLOURS 
+
 ### Media
 
 - The photos used on the home and sign up page are from This Open Source site
@@ -104,6 +99,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 
 Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+
 
 ## Other General Project Advice
 
