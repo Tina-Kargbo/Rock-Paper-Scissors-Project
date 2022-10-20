@@ -1,6 +1,6 @@
 # Rock, Paper Scissors Game
 
-The Rock, Paper, Scissors Game was created to allow children of primary school age to exercise their fine motor skills by interacting with a computer game. It is also a fun way for them to experience how games can also be a matter of chance and not always just skill. I choose a typical children's game of rock, paper scissors, which many primary school aged children in England have played before to demonstrate this. Children will also learn something about what the properties of rock, paper and scissors can do in combination with one another.
+The Rock, Paper, Scissors Game was created to allow British children of primary school age (between 5 and 10 years) to exercise their fine motor skills by interacting with a computer game. It is also a fun way for them to experience how games can also be a matter of chance and not always just skill. I choose a typical children's game of rock, paper scissors, which many primary school aged children in England have played before to demonstrate this. Children will also learn something about what the properties of rock, paper and scissors can do in combination with one another.
 
 
 ![Responsive Mockup](LINK IT HERE)
