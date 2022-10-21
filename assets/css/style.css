@@ -20,10 +20,10 @@ footer {
     position: absolute;
     width: 100%;
     left: 0;
-    bottom: 0;
+    bottom: -5px;
     box-sizing: border-box;
     min-height: 80px;
-    padding-top: 5px;
+    padding-top: 3px;
     text-align: center;
     color: white;
     background-color: red;
@@ -57,7 +57,7 @@ footer {
 
 #reset {
         width: 110px;
-        height: 70px;
+        height: 40px;
         font-size: medium;
 
 }
