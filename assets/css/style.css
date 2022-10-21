@@ -55,6 +55,18 @@ footer {
     height: 20px;
 }
 
+#reset {
+        width: 110px;
+        height: 70px;
+        font-size: medium;
+
+}
+
+#reset {
+    position: fixed;
+    margin-top: 240px;
+}
+
 .player {
     background-color: yellow;
     float: left;
