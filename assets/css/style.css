@@ -13,7 +13,7 @@ body {
 
 header {
     text-align: center;
-    height: 30px;
+    height: 20px;
 }
 
 footer {
@@ -27,12 +27,14 @@ footer {
     text-align: center;
     color: white;
     background-color: red;
+      
 }
 
 /* Game area */
 
 .game-area {
     width: 75%;
+    height: 50%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1%;
@@ -65,26 +67,31 @@ footer {
 #reset {
     position: fixed;
     margin-top: 240px;
+    margin-left: 150px;
 }
 
 .player {
     background-color: yellow;
     float: left;
     width: 30%;
+    position: relative;
 }
 
 #player-image {
-    width:150px;
+    width: 115px;
     height: 120px;
 }
 
 .computer {
     background-color: blue;
     float: right;
-    width: 45%;
+    width: 30%;
+    position: relative;
 }
 
 #computer-image {
-    width: 150px;
+    width: 115px;
     height: 120px;
 }
+
+/* Media Queries Responsive Sizes */
