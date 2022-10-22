@@ -53,16 +53,11 @@ footer {
     height: 40px;
     font-size: small;
 }
-
-#messages {
-    height: 20px;
-}
-
+ 
 #reset {
         width: 110px;
         height: 40px;
         font-size: medium;
-
 }
 
 #reset {
@@ -119,7 +114,7 @@ footer {
     .control {
         width: 32%;
         height: 40px;
-        font-size: small;
+        font-size: 12px;
     }
 
     .player {
@@ -157,4 +152,7 @@ footer {
         float: inline-start;
     }
 }
-   
+
+@media only screen and (min-width: 481px)   and (max-width: 768px) {
+
+}
