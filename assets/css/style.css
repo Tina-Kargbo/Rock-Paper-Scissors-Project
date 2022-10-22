@@ -114,7 +114,7 @@ footer {
     .control {
         width: 32%;
         height: 40px;
-        font-size: 12px;
+        font-size: 11px;
     }
 
     .player {
@@ -154,5 +154,8 @@ footer {
 }
 
 @media only screen and (min-width: 481px)   and (max-width: 768px) {
-
+    #reset {
+        margin-right: 60px;
+        margin-top: 40px;
+    }
 }
