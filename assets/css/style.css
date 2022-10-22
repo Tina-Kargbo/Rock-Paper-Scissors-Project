@@ -47,6 +47,7 @@ footer {
     width: 80px;
     height: 50px;
 }
+
 .control {
     width: 110px;
     height: 40px;
@@ -65,8 +66,7 @@ footer {
 }
 
 #reset {
-    position: fixed;
-    margin-top: 240px;
+    margin-top: 200px;
     margin-left: 150px;
 }
 
@@ -103,18 +103,58 @@ footer {
         font-size: x-small;
     } 
 
-    .game-area {
-        width: 75%;
-        height: 50%;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 1%;
-        text-align: center;
-    }
-
     #sub-heading {
         font-size: medium;
     }
 
+    footer {
+    position: absolute;
+    width: 100%;
+    margin-top: -10px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    }
+
+    .control {
+        width: 32%;
+        height: 40px;
+        font-size: small;
+    }
+
+    .player {
+        width: 100%;
+        height: 100px;
+        margin-top: -20px;
+    }
+
+    #player-image {
+        width: 80%;
+        height: 50px;
+    }
+
+    .computer {  
+        width: 100%;
+        height: 100px;
+        margin-top: 30px;
+    }
+
+    #computer-image {
+        width: 80%;
+        height: 50px;
+    }
+
+    #reset {
+        margin-top: 20px;
+        margin-bottom: 30px;
+        margin-left: 33%;
+    }
+
+    #reset {
+        width: 110px;
+        height: 40px;
+        font-size: medium;
+        float: inline-start;
+    }
 }
    
