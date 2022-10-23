@@ -56,8 +56,13 @@ The footer holds the rules of the game. The rules of the game allow children to 
 
 I confirmed that the accessibility score and fonts and colours are easy to see and read by running it though Lighthouse in dev tools.
 
-I confirmed that the webpage is responsive from 320px and above by testing this using dev tools.
+I confirmed that the webpage is responsive between the screen sizes of:
 
+320px-480px
+481px-768px
+769px-1024
+1025px-1200px
+1201px and above
 
 ### Validator Testing 
 
@@ -82,14 +87,16 @@ There were no unfixed bugs in the code, since there were no bugs found.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+This website was deployed to the GitHub page. These were the steps taken.
+1) Go to the github repository.
+2) Select ”Settings” at the top of the page.
+3) Select ”Pages” from the left hand column on the page.
+4) Under the ”Source” heading, select the ”Deploy from a branch” option.
+5) Under the ”Branch” heading below the ”source” heading, select the ”main” option. On the selection column beside the ”main” option, select the ”root” option. Then press the save button beside the ”root” option that was selected.
+6) You should then see your live link at the top of the page after taking these steps.
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+The live link to the website can be found here: https://tina-kargbo.github.io/wh-gym-spa/
 
-The live link can be found here - https://code-institute-org.github.io/love-maths/
 
 
 ## Credits 
