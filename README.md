@@ -1,5 +1,7 @@
 # Rock, Paper Scissors Game
 
+![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Rock-paper-scissors-homepage.png)
+
 The Rock, Paper, Scissors Game was created to allow British children of primary school age (between 5 and 10 years) to exercise their fine motor skills by interacting with a computer game. It is also a fun way for them to experience how games can also be a matter of chance and not always just skill. I choose a typical children's game of rock, paper scissors, which many primary school aged children in England have played before to demonstrate this. Children will also learn something about what the properties of rock, paper and scissors can do in combination with one another.
 
 
@@ -7,29 +9,39 @@ The Rock, Paper, Scissors Game was created to allow British children of primary 
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
+
 
 - __Heading__
 
-HEADING LINK//
+![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Header.png)
 
   - The heading "Rock, Paper, Scissors Game" is large and bold. This is to make it easy for children to read. The heading is also written in the Comic Neue font-type, which is child-friendly. This font type is not highly stylised, making it easier and clearer to read.
 
 - __Game Area__
 
-GAME AREA LINK
 
   - This game area has a "Please Choose!" sub-heading, signalling to children simplistically that they should choose one of the buttons below it. Underneath the "Please Choose!" sub-heading sits the three buttons for rock, paper and scissors in a horizontol row. Children can choose one of the buttons in order to play against the computer. Each button has a small icon of the object that it signals beside the words "Rock", "Paper" and "Scissors" in order to show children who cannot read so well which button that they are pressing.
 
 
 - __Score Area__
 
-  -  The score area is primarily for the player to know their score as against the computer's score. In this area, there is a section to the left with a yellow background showing "Your Score", which is the score of the player. To the right sits a sectionw with a blue background showing the "Computer Score". Again it has pictures of the three images of hands representing a rock, paper and scissors. These colors are in blue and yellow because they are in primary colours. These are colours that many children of primary school going age would be familiar with and know the names of. Primary colours are also child friendly because children like and see bright primary colours more than dark and muted colours. These colours are familiar to the children and offers the warmth of familiarity for them without too much distraction.
+![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Score-area.png)
+
+![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Tie.png)
+
+![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Player-wins.png)
+
+![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Computer-wins.png)
+
+
+
+  -  The score area is primarily for the player to know their score as against the computer's score. In this area, there is a section to the left with a yellow background showing "Your Score", which is the score of the player. To the right sits a section with a blue background showing the "Computer Score". Again it has pictures of the three images of hands representing a rock, paper and scissors. These colors are in blue and yellow because they are in primary colours. These are colours that many children of primary school going age would be familiar with and know the names of. Primary colours are also child friendly because children like and see bright primary colours more than dark and muted colours. These colours are familiar to the children and offers the warmth of familiarity for them without too much distraction.
 
 
 _ Footer Area _
+
+![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Footer.png)
 
 The footer has the rules of the game. The rules of the game allow children to know what object (rock, paper or scissors) can be used in combination with another object to win a round of the game. The footer background colour is in red, which is a bright primary colour just like the colours above in the score section. A primary colour was again used for the footer for the same reasons that primary colours were used in the score area (see score area section above).  
 
@@ -38,6 +50,8 @@ The footer has the rules of the game. The rules of the game allow children to kn
 - Another feature idea
 
 ## Testing 
+
+![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Rock-paper-scissors-Lighthouse-test.png)
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
