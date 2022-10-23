@@ -26,9 +26,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     
     /**
-     * The main game function. Accepts one parameter, 
-     * which is the data-choice value of the selected button.
+     * The main game function. 
      */
+    
     function playGame(playerChoice) {
 
         playerImage.src = `assets/images/${playerChoice}.jpg`;
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     /**
-     * Checks to see who the winner is, it accepts two strings as
+     * Checks to see who the winner is.
      */
     function checkWinner(computerChoice, playerChoice){
         // User plays Rock
