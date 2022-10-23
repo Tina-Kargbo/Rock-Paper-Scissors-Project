@@ -12,13 +12,13 @@ The Rock, Paper, Scissors Game was created to allow British children of primary 
 
 - __Heading__
 
-![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Header.png)
+[picture of Heading section](documentation-images/Header.png)
 
   - The heading "Rock, Paper, Scissors Game" is large and bold. This is to make it easy for children to read. The heading is also written in the Comic Neue font-type, which is child-friendly. This font type is not highly stylised, making it easier and clearer to read.
 
 - __Game Area__
 
-![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Rock-paper-scissors-homepage.png)
+[picture of Homepage section](documentation-images/Rock-paper-scissors-homepage.png)
 
   - This game area has a "Please Choose!" sub-heading, signalling to children that they should choose one of the buttons below the "Please Choose!" subheading. Underneath underneath this sits the three buttons for rock, paper and scissors in a horizontol row. Additionally he Reset button sits next to the three buttons. Children can choose one of the first three buttons ("Rock, "Paper" or "Scissors") in order to play a round against the computer. Each button has a small icon of the object that it signals beside the words "Rock", "Paper" and "Scissors" in order to show children who cannot read so well which button that they are pressing. 
 
@@ -26,13 +26,13 @@ The reset button can be pressed at anytime throughout the game to take the playe
 
 - __Score Area__
 
-![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Score-area.png)
+[picture of Score area section](documentation-images/Score-area.png)
 
-![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Tie.png)
+[picture of Player Computer Tie](documentation-images/Tie.png)
 
-![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Player-wins.png)
+[picture of Player wins section](documentation-images/Player-wins.png)
 
-![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Computer-wins.png)
+[picture of Computer wins section](documentation-images/Computer-wins.png)
 
 
   -  The score area is primarily for the player to know their score as against the computer's score. In this area, there is a section to the left with a yellow background showing "Your Score", which is the score of the player. To the right sits a section with a blue background showing the "Computer Score". Again it has pictures of the three images of hands representing a rock, a piece of paper and a pair of scissors. These colors are in blue and yellow because they are primary colours. These are colours that many children of primary school going age would be familiar with and know the names of. Primary colours are also child friendly because children like and see bright primary colours more clearly than dark and muted colours. These colours are familiar to the children and offers the warmth of familiarity for them without too much distraction from learning how to play a new game.
@@ -42,7 +42,7 @@ The reset button can be pressed at anytime throughout the game to take the playe
 
 _ Footer Area _
 
-![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Footer.png)
+[picture of Footer section](documentation-images/Footer.png)
 
 The footer holds the rules of the game. The rules of the game allow children to know what object (rock, paper or scissors) can be used in combination with the other objects to win a round of the game. This has a slightly educational moment, which allows children to imagine what the objects can do in compbination with one another. The footer background colour is in red, which is a bright primary colour just like the colours above in the score section. A primary colour was again used for the footer for the same reasons that primary colours were used in the score area (see score area section above).  
 
@@ -52,7 +52,7 @@ The footer holds the rules of the game. The rules of the game allow children to 
 
 ## Testing 
 
-![](vscode-remote://tinakargbo-rockpapersci-uzeowd38vua.ws-eu72.gitpod.io/workspace/Rock-Paper-Scissors-Project/assets/images/Rock-paper-scissors-Lighthouse-test.png)
+[picture of Lighthouse Testing](documentation-images/Rock-paper-scissors-Lighthouse-test.png)
 
 I confirmed that the accessibility score and fonts and colours are easy to see and read by running it though Lighthouse in dev tools.
 
