@@ -20,9 +20,7 @@ The Rock, Paper, Scissors Game was created to allow British children of primary 
 
 [picture of Homepage section](documentation-images/Rock-paper-scissors-homepage.png)
 
-  - This game area has a "Please Choose!" sub-heading, signalling to children that they should choose one of the buttons below the "Please Choose!" subheading. Underneath this sits the three buttons for rock, paper and scissors in a horizontol row. Additionally the Reset button sits next to the three buttons. Children can choose one of the first three buttons ("Rock, "Paper" or "Scissors") in order to play a round against the computer. Each button has a small icon of the object that it signals beside the words "Rock", "Paper" and "Scissors" in order to show children who cannot read the button text so well which button that they are pressing. 
-
-The reset button can be pressed at anytime throughout the game to take the player back to the game's homepage. There the scores will go back to 0 for both the computer and the player. This allows players to start the game again at any time that they would like to.
+  - This game area has a "Please Choose!" sub-heading, signalling to children that they should choose one of the buttons below the "Please Choose!" subheading. Underneath this sits the three buttons for rock, paper and scissors in a horizontol row. Children can choose one of the three buttons ("Rock, "Paper" or "Scissors") in order to play a round against the computer. Each button has a small icon of the object that it signals beside the words "Rock", "Paper" and "Scissors" in order to show children who cannot read the button text so well which button that they are pressing. 
 
 - __Score Area__
 
