@@ -6,7 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const buttons = document.getElementsByClassName("control");
     const playerImage = document.getElementById('player-image');
     const computerImage = document.getElementById('computer-image');
-    const resetButton =  document.getElementById('reset');
     const winnerText =  document.getElementById('result');
     let computerScore = 0;
     let playerScore = 0;
@@ -21,9 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
             playGame(playerChoice);
         });
     }
-    resetButton.addEventListener('click', function(){
-        window.location.href='/';
-    });
     
     /**
      * The main game function. 
